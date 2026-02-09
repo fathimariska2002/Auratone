@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Stylized letter A made from two legs and a crossbar -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,85 L45,20 L55,20 L70,85 L60,85 L54,65 L46,65 L40,85 Z" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M45,55 L55,55 L55,60 L45,60 Z" />
+
+</vector>
